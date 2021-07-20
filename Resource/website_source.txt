@@ -1,1 +1,4 @@
 Shark Data excel - https://data.world/siyeh/shark-attack-data-updated-daily
+car crash info last 5 years in WA
+- https://catalogue.data.wa.gov.au/dataset/mrwa-crash-information-last-5-years-/resource/0ccf6e57-9f54-4d94-bd21-0be0df989608
+- https://catalogue.data.wa.gov.au/dataset/mrwa-crash-information-last-5-years-
