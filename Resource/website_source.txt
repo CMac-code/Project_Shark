@@ -1,8 +1,16 @@
-Shark Data excel - https://data.world/siyeh/shark-attack-data-updated-daily
+Shark Data excel 
+- https://data.world/siyeh/shark-attack-data-updated-daily
+- https://www.sharkattackfile.net/incidentlog.htm
+
 car crash info last 5 years in WA
 - https://catalogue.data.wa.gov.au/dataset/mrwa-crash-information-last-5-years-/resource/0ccf6e57-9f54-4d94-bd21-0be0df989608
 - https://catalogue.data.wa.gov.au/dataset/mrwa-crash-information-last-5-years-
 
-https://newsapi.org/s/australia-news-api
+https://newsapi.org/s/australia-news-api -> can only extract articles up to 1 month old (not useful?)
 https://catalogue.data.wa.gov.au/dataset/western-australia-s-govhack-shark-hazard-api/resource/ca305e6c-6b4b-40bc-a2be-f697fb9d24d1
 https://collections.ala.org.au/datasets?dr-search=#filters=contains%3Ashark
+
+Parsehub- extracting news data into excel
+- https://www.youtube.com/watch?v=noqkJciAfWE
+- https://parsehub.com/quickstart
+- https://www.9news.com.au/shark-attack/5
