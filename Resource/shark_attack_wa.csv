@@ -1,41 +1,41 @@
 ,Unnamed: 0,Case Number,Date,Year,Type,Country,Area,Location,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Species ,lat,lng,region
-0,16,2020.12.09,09-Dec-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Cable Beach,Surfing,M,,"No injury, Board bitten",N,07h00,,-17.9319444,122.20805559999998,Northern
-1,18,2020.11.22,22-Nov-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Cable Beach,Body boarding,M,59,FATAL,Y,08h40,Bull shark,-17.9319444,122.20805559999998,Northern
-2,21,2020.10.09,09-Oct-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Kelp Beds Beach (Kelpies),Surfing,M,52,FATAL,Y,10h45,4m shark,-33.8324777,121.9970721,Southern
-3,22,2020.10.04,04-Oct-2020,2020,Unprovoked,AUSTRALIA,Western Australia,"Toms Surf break, Hamersley Pool, North Beach, Perth",Surfing,M,17,"No injury, knocked off board when shark grabbed his leg rope",N,10h45,Bronze whaler 1.5m,-31.8626015,115.75212140000002,Metro
-4,28,2020.07.31.a,31-Jul-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Bunker Bay Beach,Surfing,M,28,Lacerations to leg,N,14h15,"White shark, 4m",-33.543638,115.03078500000001,Southern
-5,35,2020.06.06,06-Jun-2020,2020,Unprovoked,AUSTRALIA,Western Australia,"Tantabitti Beach, Nigaloo",,F,,,,,,-22.4976738,113.71960759999999,Northern
-6,44,2020.01.05,05-Jan-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Cull Island / Esperance,Scuba diving,M,57,FATAL,Y,13h00,White shark,-33.9221794,121.90321809999999,Southern
-7,45,2020.01.02,02-Jan-2020,2020,Questionable,AUSTRALIA,Western Australia,Esperance,Swimming after being swept off rocks,M,21,Probable drowning and scavenging,Y,16h10,,-33.8613469,121.89143770000001,Southern
-8,48,2019.12.06,06-Dec-2019,2019,Unprovoked,AUSTRALIA,Western Australia,Exmouth,Free diving,M,57,Arm bitten,N,09h00,,-21.9316745,114.12395420000001,Northern
-9,55,2019.09.07,07-Sep-2019,2019,Unprovoked,AUSTRALIA,Western Australia,"Burns Beach, Perth",Spearfishing,M,,"No injury, shark bit swim fin",N,09h00,14' white shark,-31.724687199999998,115.7248959,Metro
-10,66,2019.01.14,14-Jan-2019,2019,Unprovoked,AUSTRALIA,Western Australia,North Cottesloe ,Swimming,F,15,Minor injury to left foot,N,11h30,Wobbegong shark,-31.996113,115.7561863,Metro
-11,74,2018.11.11.a,11-Nov-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Pyramids Beach, Mandurah",Body Boarding,M,20,Injuries to lower left leg and foot,N,08h40,Sandtiger shark,-32.603604100000005,115.6304031,Metro
-12,77,2018.10.24,24-Oct-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Guillotines surf break, Shire of Augusta Margaret River",Surfing,M,,Knocked off board by a  shark.   No injury,N,09h00,,-33.976738299999994,114.98598359999998,Southern
-13,79,2018.10.13,13-Oct-2018,2018,Questionable,AUSTRALIA,Western Australia,Two Rocks near Three Mile Reef,Spearfishing,M,,"No injury, claimed he was bumped by shark",N,12h00,"White shark, 5m female",-31.77555559999999,115.675,Metro
-14,87,2018.05.00,May 2018,2018,Provoked,AUSTRALIA,Western Australia,Dugong Bay,Feeding sharks,F,34,Shallow lacerations to finger PROVOKED INCIDENT,N,,"Tawny nurse shark, 2m",-16.395,123.87222220000001,Northern
-15,89,2018.04.28.a,28-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,Gearys Beach,Surfing,M,,"No injury, knocked off board by shark",N,16h50,,-31.8291881,115.74552790000001,Metro
-16,91,2018.04.25.a,25-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Surfers Point, Prevelly",Surfing,M,60,"No injury, knocked off board by shark",N,09h30,3 m shark,-33.976738299999994,114.98598359999998,Southern
-17,92,2018.04.24,24-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"South Point, Gracetown",Surfing,M,,"No injury, shark struck his leg",N,Afternoon,"White shark, 3.5 m",-33.864479700000004,114.97678059999998,Southern
-18,93,2018.04.15.b,15-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Lefthanders, Margaret River Area",Surfing,M,41,Laceration to right thigh,N,,,-33.8752851,114.98611319999999,Southern
-19,94,2018.04.15.a,15-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Cobblestones, Margaret River Area",Surfing,M,37,Lacerations to legs,N,08h00,,-33.956222,115.08183670000001,Southern
-20,95,2018.03.14,14-Mar-2018,2018,Unprovoked,AUSTRALIA,Western Australia,Waterman's Bay,Wading,M,10,Minor injuries to legs,N,17h35,Wobbegong shark,-31.849601300000003,115.75490520000001,Metro
-21,102,2018.02.01,01-Feb-2018,2018,Invalid,AUSTRALIA,Western Australia,"Avalon Point, Manurah",Spearfishing,M,14,"No injury no attack. This is considerd an ""encounter""",N,,2m shark,-32.5947053,115.6329821,Metro
-22,103,2018.01.28,28-Jan-2018,2018,Unprovoked,AUSTRALIA,Western Australia,Cone Bay,,M,18,Injuries to right leg,N,08h00,Bull shark,-16.4683333,123.53527779999999,Northern
-23,106,2018.01.05,05-Jan-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"South Point, Gracetown",Surfing,M,,Foot bitten,N,,Wobbegong shark?,-33.864479700000004,114.97678059999998,Southern
-24,111,2017.09.25.a,25-Sep-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Gracetown,Surfing,M,,"No injury, board damaged by shark",N,18h00,"White shark, 3.5 m",-33.8641558,114.9882251,Southern
-25,112,2017.09.14,Sep-2017,2017,Watercraft,AUSTRALIA,Western Australia,Esperance,Fishing,,,"sharks rammed boats, no injury to occupants",N,,"White shark, 3.5m",-33.8613469,121.89143770000001,Southern
-26,113,2017.09.10.b,10-Sep-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Sam's Creek area,Swimming,M,,Minor injuries,N,15h00,,-20.6287012,117.19347820000002,Northern
-27,116,2017.07.14.a,14-Jul-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Floreat Beach,Surfing,M,,"Minor injury, grazed by shark",N,11h45,,-31.928959399999997,115.7548856,Metro
-28,117,2017.06.11,11-Jun-2017,2017,Unprovoked,AUSTRALIA,Western Australia,"Point Casuarina, Bunbury",Body boarding,M,48,"No injury, board bitten",N,08h30,"White shark, 4 m",-33.316627600000004,115.6332997,Southern
-29,121,2017.04.17.a,17-Apr-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Kelpies near Wylie Bay,Surfing,F,17,FATAL,Y,16h00,White shark,-33.8324777,121.9970721,Southern
-30,124,2017.02.25,25-Feb-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Mauds Point,Snorkeling,F,,Hand bitten,N,Morning,"Bull shark, 1.5",-23.1290557,113.7810913,Northern
-31,125,2017.02.24,24-Feb-2017,2017,Unprovoked,AUSTRALIA,Western Australia,"Falcon Bay Beach, Mandurah",Surfing,M,,"No injury, shark struck board",N,Morning,,-32.580565,115.65188059999998,Metro
-32,131,2016.12.24,24-Dec-2016,2016,Unprovoked,AUSTRALIA,Western Australia,"Bundegi Sanctuary Zone, Ningaloo",Snorkeling,F,,Buttock bitten,N,Morning,a small shark,-21.8265229,114.17776570000001,Northern
-33,132,2016.12.14,14-Dec-2016,2016,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Free diving,M,61,Punctures to left foot/ankle,N,09h30,,-31.8779189,115.7517755,Metro
-34,142,2016.09.15.R,15-Sep-2016,2016,Watercraft,AUSTRALIA,Western Australia,Bunbury,Fishing,,,Shark rammed boat. No injury to occupant,N,,,-33.327042999999996,115.64088659999999,Southern
-35,143,2016.09.05.a,05-Sep-2016,2016,Unprovoked,AUSTRALIA,Western Australia,Injidup ,Surfing,M,,"No inury, board broken in half by shark",N,Late afternoon,,-33.6990557,114.9883973,Southern
-36,144,2016.07.28,28-Jul-2016,2016,Watercraft,AUSTRALIA,Western Australia,Near Albany,,M,,"No injury, shark nudged kayak repeatedly",N,,White shark,-35.0269344,117.8837206,Southern
-37,149,2016.06.15.a,15-Jun-2016,2016,Provoked,AUSTRALIA,Western Australia,Coral Bay,Spearfishing,M,19,No injury but shark punctured his wetsuit after he prodded it with his spear PROVOKED INCIDENT,N,,5' shark,-23.1422986,113.77230890000001,Northern
-38,150,2016.06.05.a,05-Jun-2016,2016,Unprovoked,AUSTRALIA,Western Australia,Mindarie,Diving,F,60,FATAL,Y,11h30,3+ m shark,-31.6900771,115.7060487,Metro
-39,152,2016.05.31,31-May-2016,2016,Unprovoked,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Surfing,M,29,FATAL,Y,16h00,White shark,-32.5801397,115.6523868,Metro
+0,7,2020.12.09,09-Dec-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Cable Beach,Surfing,M,,"No injury, Board bitten",N,Dawn,,-17.9319444,122.20805559999998,Northern
+1,17,2018.04.15.a,15-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Cobblestones, Margaret River Area",Surfing,M,37,Lacerations to legs,N,Dawn,,-33.9504062,115.0701064,Southern
+2,18,2018.01.28,28-Jan-2018,2018,Unprovoked,AUSTRALIA,Western Australia,Cone Bay,,M,18,Injuries to right leg,N,Dawn,Bull shark,-16.4683333,123.53527779999999,Northern
+3,19,2017.06.11,11-Jun-2017,2017,Unprovoked,AUSTRALIA,Western Australia,"Point Casuarina, Bunbury",Body boarding,M,48,"No injury, board bitten",N,Day,"White shark, 4 m",-33.316627600000004,115.6332997,Southern
+4,20,2020.11.22,22-Nov-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Cable Beach,Body boarding,M,59,FATAL,Y,Day,Bull shark,-17.9319444,122.20805559999998,Northern
+5,21,2018.11.11.a,11-Nov-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Pyramids Beach, Mandurah",Body Boarding,M,20,Injuries to lower left leg and foot,N,Day,Sandtiger shark,-32.603604100000005,115.6304031,Metro
+6,22,2019.12.06,06-Dec-2019,2019,Unprovoked,AUSTRALIA,Western Australia,Exmouth,Free diving,M,57,Arm bitten,N,Day,,-21.9316745,114.12395420000001,Northern
+7,23,2019.09.07,07-Sep-2019,2019,Unprovoked,AUSTRALIA,Western Australia,"Burns Beach, Perth",Spearfishing,M,,"No injury, shark bit swim fin",N,Day,14' white shark,-31.724687199999998,115.7248959,Metro
+8,24,2018.10.24,24-Oct-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Guillotines surf break, Shire of Augusta Margaret River",Surfing,M,,Knocked off board by a  shark.   No injury,N,Day,,-33.976738299999994,114.98598359999998,Southern
+9,30,2018.04.25.a,25-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Surfers Point, Prevelly",Surfing,M,60,"No injury, knocked off board by shark",N,Day,3 m shark,-33.976738299999994,114.98598359999998,Southern
+10,31,2016.12.14,14-Dec-2016,2016,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Free diving,M,61,Punctures to left foot/ankle,N,Day,,-31.8779189,115.7517755,Metro
+11,40,2020.10.09,09-Oct-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Kelp Beds Beach (Kelpies),Surfing,M,52,FATAL,Y,Day,4m shark,-33.8324777,121.9970721,Southern
+12,41,2020.10.04,04-Oct-2020,2020,Unprovoked,AUSTRALIA,Western Australia,"Toms Surf break, Hamersley Pool, North Beach, Perth",Surfing,M,17,"No injury, knocked off board when shark grabbed his leg rope",N,Day,Bronze whaler 1.5m,-31.862616,115.7520862,Metro
+13,48,2019.01.14,14-Jan-2019,2019,Unprovoked,AUSTRALIA,Western Australia,North Cottesloe ,Swimming,F,15,Minor injury to left foot,N,Day,Wobbegong shark,-31.996113,115.7561863,Metro
+14,49,2016.06.05.a,05-Jun-2016,2016,Unprovoked,AUSTRALIA,Western Australia,Mindarie,Diving,F,60,FATAL,Y,Day,3+ m shark,-31.6900771,115.7060487,Metro
+15,52,2017.07.14.a,14-Jul-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Floreat Beach,Surfing,M,,"Minor injury, grazed by shark",N,Day,,-31.928959399999997,115.7548856,Metro
+16,55,2018.10.13,13-Oct-2018,2018,Questionable,AUSTRALIA,Western Australia,Two Rocks near Three Mile Reef,Spearfishing,M,,"No injury, claimed he was bumped by shark",N,Day,"White shark, 5m female",-31.77555559999999,115.675,Metro
+17,63,2020.01.05,05-Jan-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Cull Island / Esperance,Scuba diving,M,57,FATAL,Y,Day,White shark,-33.9221794,121.90321809999999,Southern
+18,73,2020.07.31.a,31-Jul-2020,2020,Unprovoked,AUSTRALIA,Western Australia,Bunker Bay Beach,Surfing,M,28,Lacerations to leg,N,Day,"White shark, 4m",-33.543638,115.03078500000001,Southern
+19,77,2017.09.10.b,10-Sep-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Sam's Creek area,Swimming,M,,Minor injuries,N,Day,,-20.6287012,117.19347820000002,Northern
+20,87,2017.04.17.a,17-Apr-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Kelpies near Wylie Bay,Surfing,F,17,FATAL,Y,Day,White shark,-33.8324777,121.9970721,Southern
+21,88,2016.05.31,31-May-2016,2016,Unprovoked,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Surfing,M,29,FATAL,Y,Day,White shark,-32.5801397,115.6523868,Metro
+22,89,2020.01.02,02-Jan-2020,2020,Questionable,AUSTRALIA,Western Australia,Esperance,Swimming after being swept off rocks,M,21,Probable drowning and scavenging,Y,Dusk,,-33.8613469,121.89143770000001,Southern
+23,92,2018.04.28.a,28-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,Gearys Beach,Surfing,M,,"No injury, knocked off board by shark",N,Dusk,,-32.5801397,115.6523868,Metro
+24,101,2018.03.14,14-Mar-2018,2018,Unprovoked,AUSTRALIA,Western Australia,Waterman's Bay,Wading,M,10,Minor injuries to legs,N,Dusk,Wobbegong shark,-31.849601300000003,115.75490520000001,Metro
+25,105,2017.09.25.a,25-Sep-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Gracetown,Surfing,M,,"No injury, board damaged by shark",N,Dusk,"White shark, 3.5 m",-33.8641558,114.9882251,Southern
+26,123,2018.04.24,24-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"South Point, Gracetown",Surfing,M,,"No injury, shark struck his leg",N,Dusk,"White shark, 3.5 m",-33.864479700000004,114.97678059999998,Southern
+27,128,2016.09.05.a,05-Sep-2016,2016,Unprovoked,AUSTRALIA,Western Australia,Injidup ,Surfing,M,,"No inury, board broken in half by shark",N,Dusk,,-33.6990557,114.9883973,Southern
+28,133,2017.02.25,25-Feb-2017,2017,Unprovoked,AUSTRALIA,Western Australia,Mauds Point,Snorkeling,F,,Hand bitten,N,Dawn,"Bull shark, 1.5",-31.953119300000004,115.85531409999999,Metro
+29,134,2017.02.24,24-Feb-2017,2017,Unprovoked,AUSTRALIA,Western Australia,"Falcon Bay Beach, Mandurah",Surfing,M,,"No injury, shark struck board",N,Dawn,,-32.580565,115.65188059999998,Metro
+30,135,2016.12.24,24-Dec-2016,2016,Unprovoked,AUSTRALIA,Western Australia,"Bundegi Sanctuary Zone, Ningaloo",Snorkeling,F,,Buttock bitten,N,Dawn,a small shark,-21.8265229,114.17776570000001,Northern
+31,137,2020.06.06,06-Jun-2020,2020,Unprovoked,AUSTRALIA,Western Australia,"Tantabitti Beach, Nigaloo",,F,,,,Unknown,,-22.4976738,113.71960759999999,Northern
+32,145,2018.05.00,May 2018,2018,Provoked,AUSTRALIA,Western Australia,Dugong Bay,Feeding sharks,F,34,Shallow lacerations to finger PROVOKED INCIDENT,N,Unknown,"Tawny nurse shark, 2m",-16.395,123.87222220000001,Northern
+33,146,2018.04.15.b,15-Apr-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"Lefthanders, Margaret River Area",Surfing,M,41,Laceration to right thigh,N,Unknown,,-33.8752851,114.98611319999999,Southern
+34,147,2018.02.01,01-Feb-2018,2018,Invalid,AUSTRALIA,Western Australia,"Avalon Point, Manurah",Spearfishing,M,14,"No injury no attack. This is considerd an ""encounter""",N,Unknown,2m shark,-32.5947053,115.6329821,Metro
+35,149,2018.01.05,05-Jan-2018,2018,Unprovoked,AUSTRALIA,Western Australia,"South Point, Gracetown",Surfing,M,,Foot bitten,N,Unknown,Wobbegong shark?,-33.864479700000004,114.97678059999998,Southern
+36,151,2017.09.14,Sep-2017,2017,Watercraft,AUSTRALIA,Western Australia,Esperance,Fishing,,,"sharks rammed boats, no injury to occupants",N,Unknown,"White shark, 3.5m",-33.8613469,121.89143770000001,Southern
+37,157,2016.09.15.R,15-Sep-2016,2016,Watercraft,AUSTRALIA,Western Australia,Bunbury,Fishing,,,Shark rammed boat. No injury to occupant,N,Unknown,,-33.327042999999996,115.64088659999999,Southern
+38,158,2016.07.28,28-Jul-2016,2016,Watercraft,AUSTRALIA,Western Australia,Near Albany,,M,,"No injury, shark nudged kayak repeatedly",N,Unknown,White shark,-35.0269344,117.8837206,Southern
+39,160,2016.06.15.a,15-Jun-2016,2016,Provoked,AUSTRALIA,Western Australia,Coral Bay,Spearfishing,M,19,No injury but shark punctured his wetsuit after he prodded it with his spear PROVOKED INCIDENT,N,Unknown,5' shark,-23.1422986,113.77230890000001,Northern
